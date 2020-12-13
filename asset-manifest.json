@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reval/static/css/main.b2d38999.chunk.css",
+    "main.js": "/reval/static/js/main.7c92fec1.chunk.js",
+    "main.js.map": "/reval/static/js/main.7c92fec1.chunk.js.map",
+    "runtime-main.js": "/reval/static/js/runtime-main.ea23724c.js",
+    "runtime-main.js.map": "/reval/static/js/runtime-main.ea23724c.js.map",
+    "static/js/2.25185e93.chunk.js": "/reval/static/js/2.25185e93.chunk.js",
+    "static/js/2.25185e93.chunk.js.map": "/reval/static/js/2.25185e93.chunk.js.map",
+    "static/js/3.f1637d31.chunk.js": "/reval/static/js/3.f1637d31.chunk.js",
+    "static/js/3.f1637d31.chunk.js.map": "/reval/static/js/3.f1637d31.chunk.js.map",
+    "index.html": "/reval/index.html",
+    "static/css/main.b2d38999.chunk.css.map": "/reval/static/css/main.b2d38999.chunk.css.map",
+    "static/js/2.25185e93.chunk.js.LICENSE.txt": "/reval/static/js/2.25185e93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea23724c.js",
+    "static/js/2.25185e93.chunk.js",
+    "static/css/main.b2d38999.chunk.css",
+    "static/js/main.7c92fec1.chunk.js"
+  ]
+}
