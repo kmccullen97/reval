@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reval/static/css/main.e12d81e1.chunk.css",
-    "main.js": "/reval/static/js/main.3469d4bd.chunk.js",
-    "main.js.map": "/reval/static/js/main.3469d4bd.chunk.js.map",
+    "main.css": "/reval/static/css/main.4888a542.chunk.css",
+    "main.js": "/reval/static/js/main.33a9839a.chunk.js",
+    "main.js.map": "/reval/static/js/main.33a9839a.chunk.js.map",
     "runtime-main.js": "/reval/static/js/runtime-main.e1099f97.js",
     "runtime-main.js.map": "/reval/static/js/runtime-main.e1099f97.js.map",
     "static/js/2.bdc82982.chunk.js": "/reval/static/js/2.bdc82982.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.858e9e89.chunk.js": "/reval/static/js/3.858e9e89.chunk.js",
     "static/js/3.858e9e89.chunk.js.map": "/reval/static/js/3.858e9e89.chunk.js.map",
     "index.html": "/reval/index.html",
-    "static/css/main.e12d81e1.chunk.css.map": "/reval/static/css/main.e12d81e1.chunk.css.map",
+    "static/css/main.4888a542.chunk.css.map": "/reval/static/css/main.4888a542.chunk.css.map",
     "static/js/2.bdc82982.chunk.js.LICENSE.txt": "/reval/static/js/2.bdc82982.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e1099f97.js",
     "static/js/2.bdc82982.chunk.js",
-    "static/css/main.e12d81e1.chunk.css",
-    "static/js/main.3469d4bd.chunk.js"
+    "static/css/main.4888a542.chunk.css",
+    "static/js/main.33a9839a.chunk.js"
   ]
 }
